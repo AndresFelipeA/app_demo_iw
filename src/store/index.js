@@ -18,15 +18,13 @@ export default createStore({
             "date": "11/10/2021",
             "status": "Pendiente"
           },
-          
           {
             "id": 2,
             "title": "Vacaciones",
             "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum cursus, mauris vitae mollis maximus, enim est mollis libero, non tincidunt risus odio vel risus. ",
             "date": "4/1/2021",
-            "status": "Aprobado"
+            "status": "Pendiente"
           },
-          
           {
             "id": 3,
             "title": "Permiso",
@@ -44,7 +42,7 @@ export default createStore({
         "email": "per-rod@gmail.com",
         "topic":[
           {
-            "id": 1,
+            "id": 4,
             "title": "Vacaciones",
             "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum cursus, mauris vitae mollis maximus, enim est mollis libero, non tincidunt risus odio vel risus. ",
             "date": "2/6/2021",
@@ -52,7 +50,7 @@ export default createStore({
           },
 
           {
-            "id": 2,
+            "id": 5,
             "title": "Permiso",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec finibus orci, ultricies pharetra arcu. Nullam ultricies lacinia nibh, quis accumsan ex dictum in. Vivamus vel rutrum diam.",
             "date": "10/1/2021",
@@ -60,7 +58,7 @@ export default createStore({
           },
 
           {
-            "id": 3,
+            "id": 6,
             "title": "Permiso",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec finibus orci, ultricies pharetra arcu. Nullam ultricies lacinia nibh, quis accumsan ex dictum in. Vivamus vel rutrum diam.",
             "date": "11/10/2021",
